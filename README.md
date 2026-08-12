@@ -15,4 +15,4 @@ Software engineering intern at Morgan Stanley (trading systems) and PwC (Salesfo
 
 TypeScript · React · Python · Java
 
-[LinkedIn](ADD_YOUR_URL) · [Portfolio](ADD_YOUR_URL)
+[LinkedIn](https://www.linkedin.com/in/micahfossett/) · [Portfolio](https://unpodimicah.com/)
