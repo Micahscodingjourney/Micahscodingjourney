@@ -12,7 +12,7 @@ CS, University of Virginia — B.S. with Distinction, 2026
 Contributor to **[Microsoft Agent Governance Toolkit](https://github.com/microsoft/agent-governance-toolkit)**, runtime policy enforcement, identity, and audit for AI agents.
 
 - [#4336](https://github.com/microsoft/agent-governance-toolkit/pull/4336) (merged) — corrected the v5 breaking-change guidance for `$.tool_result` policy targets, closing [#3540](https://github.com/microsoft/agent-governance-toolkit/issues/3540)
-- [#4353](https://github.com/microsoft/agent-governance-toolkit/pull/4353) (in review) — Claude Code plugin: MCP scan denials now name the text that triggered them, with a regression test
+- [#4353](https://github.com/microsoft/agent-governance-toolkit/pull/4353) (merged) — Claude Code plugin: MCP scan denials now name the text that triggered them, with a regression test
 
 **Previously**
 
